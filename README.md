@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Website Brochure Project
 
 Transform any website into a clean, expressive brochure using LLMs and semantic parsing.
@@ -80,5 +79,3 @@ Interested in learning more about Anthropic or exploring potential partnerships?
 ## 🧑‍💻 Author
 
 Built by [Sanjeev Spuranik](https://github.com/Sanjeevspuranik) — passionate about modular AI systems, semantic search, and educational tooling.
-
-```
