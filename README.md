@@ -76,6 +76,10 @@ Interested in learning more about Anthropic or exploring potential partnerships?
 ## 🧰 Extensibility
 - Format outputs for PDF, HTML, or slides
 
+## 📷 Output Image
+
+![Result](output_image/output_image_1.png)
+
 ## 🧑‍💻 Author
 
 Built by [Sanjeev Spuranik](https://github.com/Sanjeevspuranik) — passionate about modular AI systems, semantic search, and educational tooling.
